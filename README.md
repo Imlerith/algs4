@@ -1,4 +1,4 @@
-# algs4
-Solutions to "Algorithms" courses by Princeton University
+# Princeton University Algs4 by ROBERT SEDGEWICK | KEVIN WAYNE
+Solutions to "Algorithms" courses Parts I, II by Princeton University
 
-Implementation of <a href="https://git.io/fnR2F">Boggle<sup>®</sup></a> - word game designed by Allan Turoff and distributed by Hasbro
+<a href="https://git.io/fnR2F">Implementation</a> of Boggle<sup>®</sup> - word game designed by Allan Turoff and distributed by Hasbro
